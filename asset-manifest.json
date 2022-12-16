@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/tomato.github.io/static/css/main.66cd5e1d.css",
-    "main.js": "/tomato.github.io/static/js/main.26a73578.js",
-    "static/js/787.9c166d28.chunk.js": "/tomato.github.io/static/js/787.9c166d28.chunk.js",
-    "index.html": "/tomato.github.io/index.html",
-    "static/media/slick.svg": "/tomato.github.io/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/tomato.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/tomato.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/tomato.github.io/static/media/slick.295183786cd8a1389865.woff",
-    "main.66cd5e1d.css.map": "/tomato.github.io/static/css/main.66cd5e1d.css.map",
-    "main.26a73578.js.map": "/tomato.github.io/static/js/main.26a73578.js.map",
-    "787.9c166d28.chunk.js.map": "/tomato.github.io/static/js/787.9c166d28.chunk.js.map"
+    "main.css": "/smitdob/zomato.git/static/css/main.940004b7.css",
+    "main.js": "/smitdob/zomato.git/static/js/main.5e926f34.js",
+    "static/js/787.9c166d28.chunk.js": "/smitdob/zomato.git/static/js/787.9c166d28.chunk.js",
+    "index.html": "/smitdob/zomato.git/index.html",
+    "static/media/slick.svg": "/smitdob/zomato.git/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/smitdob/zomato.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/smitdob/zomato.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/smitdob/zomato.git/static/media/slick.295183786cd8a1389865.woff",
+    "main.940004b7.css.map": "/smitdob/zomato.git/static/css/main.940004b7.css.map",
+    "main.5e926f34.js.map": "/smitdob/zomato.git/static/js/main.5e926f34.js.map",
+    "787.9c166d28.chunk.js.map": "/smitdob/zomato.git/static/js/787.9c166d28.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66cd5e1d.css",
-    "static/js/main.26a73578.js"
+    "static/css/main.940004b7.css",
+    "static/js/main.5e926f34.js"
   ]
 }
