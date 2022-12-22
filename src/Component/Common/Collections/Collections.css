@@ -1,0 +1,193 @@
+/* .collection {
+    padding: 15px 0px 10px;
+} */
+.collection-subtitle-row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.collection-subtitle-text {
+    color: #363636;
+    font-size: 15px;
+}
+.collection-location {
+    color: red;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+}
+.collection-cover {
+    border-radius: 6px;
+    position: relative;
+    margin: 0 auto;
+}
+.gredient-bg{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    border-radius: 6px;
+    background: linear-gradient(0deg,rgba(0,0,0,0.9)0%,rgba(0,0,0,0.05)50%,rgba(0,0,0,0.05)85%);
+}
+.collection-imng{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 6px;
+}
+.collection-card-title{
+    position: absolute;
+    left: 16px;
+    bottom: 30px;
+    color: white;   
+}
+.collection-card-subtitle {
+    display: flex;
+    position: absolute;
+    left: 16px;
+    bottom: 10px;
+    font-size: 14px;
+    color: white;
+    align-items: center;
+}
+i.fa-solid.fa-caret-right {
+    padding-left: 5px;
+}
+
+@media only screen and (max-width: 300px){
+    .collection-card-title {
+        font-size: 8px;
+    }
+    .collection-subtitle-text {
+        font-size: 8px;
+    }
+    .collection-location {
+        font-size: 8px;
+    }
+    .collection-cover {
+        height: 100px;
+        width: 75px;
+    }
+    .collection-card-subtitle {
+        font-size: 10px;
+    }
+    .collection-card-title {
+        left: 25%;
+    }
+}
+
+@media only screen and (min-width: 300px) and (max-width:435px){
+    .collection-card-title {
+        font-size: 10px;
+    }
+    .collection-subtitle-text {
+        font-size: 9px;
+    }
+    .collection-location {
+        font-size: 9px;
+    }
+    .collection-cover {
+        height: 130px;
+        width: 100px;
+    }
+    .collection-card-subtitle {
+        font-size: 12px;
+    }
+}
+@media only screen and (min-width: 435px) and (max-width:510px){
+    .collection-card-title {
+        font-size: 10px;
+    }
+    .collection-subtitle-text {
+        font-size: 11px;
+    }
+    .collection-location {
+        font-size: 12px;
+    }
+    .collection-cover {
+        height: 150px;
+        width: 102px;
+    }
+    .collection-card-subtitle {
+        font-size: 12px;
+    }
+}
+@media only screen and (min-width: 511px) and (max-width:576px){
+    .collection-card-title {
+        font-size: 11px;
+    }
+    .collection-subtitle-text {
+        font-size: 12px;
+    }
+    .collection-location {
+        font-size: 12px;
+    }
+    .collection-cover {
+        height: 150px;
+        width: 115px;
+    }  
+}
+@media only screen and (max-width: 576px){   
+    .collection-wrapper {
+        margin: 10px auto;
+    }
+}
+@media only screen and (min-width: 576px) and (max-width: 768px)  {
+    .collection-cover {
+        height: 180px;
+        width: 130px;
+    }
+    .collection-card-title {
+        font-size: 11px;
+    }
+    .collection-card-subtitle {
+        font-size: 11px;
+    }
+    .collection-subtitle-text {
+        font-size: 13px;
+    }
+    .collection-location {
+        font-size: 13px;
+    }
+}
+@media only screen and (max-width: 768px){
+}
+@media only screen and (min-width: 768px) and (max-width: 992px){
+    .collection-cover {
+        height: 200px;
+        width: 160px;
+    }
+}
+@media only screen and (min-width: 577px) and (max-width: 992px){
+    .collection-wrapper {
+        margin: 15px auto;
+    }
+}
+@media only screen and (max-width: 992px){}
+@media only screen and (max-width: 1200px){}
+@media only screen and (max-width: 1400px){}
+@media only screen and (min-width: 577px){}
+@media only screen and (min-width: 769px){
+    .collection-card-title{
+        font-size: 18px;
+    }
+}
+@media only screen and (min-width: 993px){
+    .collection-cover {
+        height: 280px;
+        width: 208px;
+    }
+}
+@media only screen and (min-width: 994px) and (max-width:1200){
+    .collection-wrapper {
+        margin: 15px auto;
+    }
+}
+@media only screen and (min-width: 1201px){
+    .collection-wrapper {
+        margin: 35px auto;
+    }
+}
+@media only screen and (min-width: 1401px){}

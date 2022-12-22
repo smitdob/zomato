@@ -1,0 +1,120 @@
+/* .top-brand-wrapper {
+    margin-top: 30px;
+    background: #eee;
+    padding-top: 30px;
+    padding-bottom: 30px;
+} */
+.top-brand-wrapper {
+    background: #eee;
+}
+
+.top-brand-cover {
+    height: 125px;
+    width: 125px;
+    border-radius: 10%;
+    background-color: white;
+    box-shadow: rgb(0 0 0 / 8%) 0px 3px 12px;
+    border: 0.5px solid white;
+    margin: 0 auto;
+}
+.top-brand-image{
+    border-radius: inherit;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.top-brand-time {
+    text-align: center;
+    margin: 5px auto;
+}
+
+
+@media only screen and (max-width:435px){
+    .top-brand-cover {
+        height: 40px;
+        width: 40px;
+    }
+    .top-brand-cover {
+        height: 30px;
+        width: 30px;
+    }
+}
+@media only screen and (min-width: 436px) and (max-width:576px){
+    .top-brand-cover {
+        height: 50px;
+        width: 50px;
+    }
+}
+@media only screen and (max-width: 576px){   
+    .top-brand-wrapper {
+        margin: 10px auto;
+    }
+    .top-brands.max-width {
+        padding: 10px 0;
+    }
+}
+@media only screen and (min-width: 576px) and (max-width: 768px)  {
+    .top-brand-cover {
+        height: 60px;
+        width: 60px;
+    }
+    .top-brands {
+        margin-bottom: 5px;
+        margin-top: 20px;
+    }
+}
+@media only screen and (max-width: 768px){
+    .top-brand-time {
+        font-size: 10px;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 992px){
+    .top-brand-cover {
+        height: 85px;
+        width: 92px;
+    }
+    .top-brand-time {
+        font-size: 12px;
+    }
+    .top-brands {
+        margin-bottom: 10px;
+        margin-top: 25px;
+    }
+}
+@media only screen and (max-width: 992px){}
+@media only screen and (max-width: 1200px){
+    .slick-arrow.slick-prev, .slick-arrow.slick-next{
+        display: none !important;
+    }
+}
+@media only screen and (max-width: 1400px){}
+@media only screen and (min-width: 577px){}
+@media only screen and (min-width: 769px){
+}
+@media only screen and (min-width: 576px) and (max-width: 992px){
+    .top-brand-wrapper {
+        margin: 15px auto;
+    }
+    .top-brands.max-width {
+        padding: 15px 0;
+    }
+}
+@media only screen and (min-width: 993px){}
+@media only screen and (min-width: 993px) and (max-width: 1200px){
+    .top-brand-wrapper {
+        margin: 20px auto;
+    }
+    .top-brands.max-width {
+        padding: 20px 0;
+    }
+}
+@media only screen and (min-width: 1201px){
+    .top-brand-wrapper {
+        margin: 35px auto;
+    }
+    .top-brands.max-width {
+        padding: 30px 0;
+    }
+}
+@media only screen and (min-width: 1401px){}
+

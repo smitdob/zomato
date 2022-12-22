@@ -1,0 +1,68 @@
+.minicart-icon{
+    color: black;
+}
+.minicart-icon:hover{
+    color: black;
+}
+div#offcanvasExampleMobile{
+    color: black;
+}
+.offcanvas-body {
+    padding: 0rem 1rem 0 1rem;
+}
+.offcanvas-header { 
+    border-bottom: 1px slid #eee;
+    border-bottom: 1px solid #eee;
+    padding: 10px 1rem;
+}
+@media only screen and (max-width:299px){
+}
+@media only screen and (min-width:300px) and (max-width:450px) {
+}
+@media only screen and (min-width:451px) and (max-width:576px){
+    .offcanvas-end {
+        width: 300px;
+    }
+}
+@media only screen and (min-width:451px){
+}
+@media only screen and (min-width:451px) and (max-width:768px){
+}
+@media only screen and (max-width: 576px){
+}
+@media only screen and (min-width: 577px) and (max-width: 676px){
+    .offcanvas-end {
+        width: 325px;
+    }
+}
+@media only screen and (min-width: 677px) and (max-width: 768px){
+}
+@media only screen and (min-width: 577px) and (max-width: 768px)  {
+}
+@media only screen and (max-width: 768px){
+    .offcanvas-body {
+        padding: 0 1rem 0rem 1rem;
+    }
+    .offcanvas-header {
+        border-bottom: 1px solid #eee;
+        padding: 8px 1rem;
+    }
+}
+@media only screen and (max-width: 992px){}
+@media only screen and (max-width: 1200px){}
+@media only screen and (max-width: 1400px){}
+@media only screen and (min-width: 577px){}
+@media only screen and (min-width: 769px){
+}
+@media only screen and (min-width: 769px) and (max-width: 991px){
+}
+@media only screen and (min-width: 992px){
+}
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+}
+@media only screen and (min-width: 1200px) and (max-width: 1400px){
+}
+@media only screen and (min-width: 1201px){
+}
+@media only screen and (min-width: 1401px){
+}

@@ -1,0 +1,15 @@
+.top-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer-top-right-wrapper {
+    display: flex;
+    align-items: center;
+}
+i.fa-solid.fa-caret-down{
+    padding-left: 3px;
+}
+i.fa-solid.fa-globe{
+    padding-right: 3px;
+}

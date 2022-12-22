@@ -1,0 +1,10 @@
+delete button white color
+border light
+remove cart title
+box shadow changes
+cart btn 100% width
+add banner in homepage
+change arrow in slider
+changes images 
+product detail page alignment issue
+ratting section spacing 
