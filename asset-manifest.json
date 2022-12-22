@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/zomato/static/css/main.86142fa9.css",
-    "main.js": "/zomato/static/js/main.c28d870b.js",
+    "main.css": "/zomato/static/css/main.346c4468.css",
+    "main.js": "/zomato/static/js/main.452301f3.js",
     "static/js/787.9c166d28.chunk.js": "/zomato/static/js/787.9c166d28.chunk.js",
     "index.html": "/zomato/index.html",
     "static/media/slick.svg": "/zomato/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/zomato/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/zomato/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/zomato/static/media/slick.295183786cd8a1389865.woff",
-    "main.86142fa9.css.map": "/zomato/static/css/main.86142fa9.css.map",
-    "main.c28d870b.js.map": "/zomato/static/js/main.c28d870b.js.map",
+    "main.346c4468.css.map": "/zomato/static/css/main.346c4468.css.map",
+    "main.452301f3.js.map": "/zomato/static/js/main.452301f3.js.map",
     "787.9c166d28.chunk.js.map": "/zomato/static/js/787.9c166d28.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.86142fa9.css",
-    "static/js/main.c28d870b.js"
+    "static/css/main.346c4468.css",
+    "static/js/main.452301f3.js"
   ]
 }
